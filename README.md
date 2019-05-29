@@ -14,7 +14,7 @@ Django **REST framework** is a powerful and flexible toolkit for building Web AP
 
 * Customizable all the way down - just use regular function-based views if you don't need the more powerful features.
 
-* Extensive documentation, and great community support.
+* It makes easy to add powerful feature using class based view.
 
-* Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.
+* Extensive documentation, and great community support.
 
